@@ -1,0 +1,29 @@
+#wp_sidebarlogin-3 {
+    border-radius: 5px;    
+    -webkit-border-radius: 10px;    
+    -moz-border-radius: 10px;    
+    -ms-border-radius: 10px;    
+    -o-border-radius: 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;    
+    background-color: rgba(225, 225, 225, 0.6);
+    border: 1px solid #000000;
+}
+
+#loginform {
+    color: black;
+    font-weight: bold;
+}
+
+.widgettitle {
+    color: black;
+}
+
+.register-link {
+    margin: 0px 1px 0px 0px;
+    border-bottom: solid 1px #000;
+}
+
+.lost_password-link {
+    margin: 0px 1px 0px 0px;
+}
